@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2064--bit-blue.svg)
 ![Version](https://img.shields.io/badge/Release-v1.0.0-success.svg)
 ![Type](https://img.shields.io/badge/Type-Desktop%20Application-orange.svg)
-> **测试版1.0.0版本已经上传到**[Releases](#)**区域**！！！请在**[Releases](#)**区域安装。
+> **测试版1.0.0版本已经上传到**[Releases](#)**区域**！！！
 >
 > 如果需要测试用的数据，可以在库中找到test_inp文件夹，内置了一些城市的管网。为了隐私保护，不会出现城市具体信息，部分管网有所调整，仅供测试使用，
 
