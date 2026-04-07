@@ -1,4 +1,4 @@
-# 🌊 SmartDrainageAgent: 大语言模型增强的智能布点决策系统 (桌面端)
+# 🌊 SensorFlow: 大语言模型增强的智能布点决策系统 (桌面端)
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2064--bit-blue.svg)
 ![Version](https://img.shields.io/badge/Release-v1.0.0-success.svg)
@@ -24,9 +24,9 @@
 本软件为免安装绿色版，下载后开箱即用：
 
 1. 前往本仓库右侧的 **[Releases](#)** 页面。
-2. 下载最新版本的 `SmartDrainageAgent_v1.0.0_Windows_x64.zip` 压缩包。
-3. 解压到你的电脑中（建议解压到全英文路径下，如 `D:\SmartDrainageAgent`）。
-4. 进入文件夹，双击运行 **`SmartDrainageAgent.exe`** 即可启动系统。
+2. 下载最新版本的 `SensorFlow_v1.0.0_Windows_x64.zip` 压缩包。
+3. 解压到你的电脑中（建议解压到全英文路径下，如 `D:\SensorFlow`）。
+4. 进入文件夹，双击运行 **`SensorFlow.exe`** 即可启动系统。
 
 *(注：初次启动时，系统需要将底层 AI 神经网络载入显存/内存，可能需要等待 10-15 秒，请耐心等待。)*
 
