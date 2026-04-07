@@ -3,6 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2064--bit-blue.svg)
 ![Version](https://img.shields.io/badge/Release-v1.0.0-success.svg)
 ![Type](https://img.shields.io/badge/Type-Desktop%20Application-orange.svg)
+> 测试版1.0.0版本已经上传到release区域！！！请在release区域安装，如果需要测试用的数据，可以在库中找到test_inp文件夹，内置了一些城市的管网。为了隐私保护，不会出现城市具体信息，部分管网有所调整，仅供测试使用，
 
 > 本软件是一款专为市政工程师打造的**免安装桌面级决策支持系统**。系统融合了“大语言模型语义解析（LLM）”与“物理信息图神经网络（PI-GNN）”，能够根据工程师的自然语言需求，在毫无监测真值的全新管网中，一键秒级生成科学、安全、符合最优实验设计的传感器布点方案。
 
@@ -45,7 +46,7 @@
 ## 注意事项与环境要求
 
 * **操作系统**：Windows 10 / 11 (64-bit)。
-* **API 配置**：软件的自然语言解析功能依赖大模型 API 支持。请在软件设置界面/或配置文件中填入你个人的 API Key。
+* **API 配置**：软件的自然语言解析功能依赖大模型 API 支持。作者贴心的提供了暂时可用的api_key，欢迎大家测试。
 * **脱机运行**：底层的 PI-GNN 寻优引擎完全在本地离线运行，确保您的管网机密数据不会上传至任何云端。
 
 ## 意见反馈与支持
